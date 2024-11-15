@@ -46,17 +46,5 @@ To run the project locally, follow these steps:
 
 
 
-government-budget-management/
-│
-├── main.cpp                # Main program entry point
-├── GovernmentComponent.h    # Abstract base class for government entities
-├── CentralGovernment.h      # Class for central government implementation
-├── StateGovernment.h        # Class for state government implementation
-├── LocalGovernment.h        # Class for local government implementation
-├── GovernmentComponent.cpp  # Base class function definitions
-├── CentralGovernment.cpp    # Central government function definitions
-├── StateGovernment.cpp      # State government function definitions
-├── LocalGovernment.cpp      # Local government function definitions
-└── README.md                # Project Documentation
 
 
